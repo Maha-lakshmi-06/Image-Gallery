@@ -33,3 +33,6 @@ This project might be simple, but it’s a big step in my learning journey.
 Every line of code helped me understand things better — and yes, building something on your own feels amazing 😄
 
 More creative projects coming soon… 🚀
+
+Project link:
+https://github.com/Maha-lakshmi-06/Image-Gallery.git
