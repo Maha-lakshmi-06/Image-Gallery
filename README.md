@@ -35,4 +35,4 @@ Every line of code helped me understand things better — and yes, building some
 More creative projects coming soon… 🚀
 
 Project link:
-https://github.com/Maha-lakshmi-06/Image-Gallery.git
+https://maha-lakshmi-06.github.io/Image-Gallery/
