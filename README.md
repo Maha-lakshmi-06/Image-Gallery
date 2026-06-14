@@ -1,4 +1,4 @@
-🐾 Pawsitively Adorable Pets GallerA simple and visually pleasing image gallery that showcases some of the cutest pets 🐶🐱🐰.
+🐾 Pawsitively Adorable Pets Gallery. A simple and visually pleasing image gallery that showcases some of the cutest pets 🐶🐱🐰.
 Built using pure HTML and CSS, this project focuses on design, layout, and smooth visual effects.
 
 🌟 About This Project
